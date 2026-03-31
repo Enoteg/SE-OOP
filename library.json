@@ -1,0 +1,33 @@
+{
+  "books": [
+    {
+      "title": "Маленький принц",
+      "author": "Сент-Экзюпери",
+      "isbn": "1234567890",
+      "total": 1,
+      "issued": 1
+    }
+  ],
+  "users": [
+    {
+      "firstName": "Иван",
+      "lastName": "Иванов",
+      "cardNumber": "1001",
+      "books": []
+    },
+    {
+      "firstName": "Пётр",
+      "lastName": "Петров",
+      "cardNumber": "1002",
+      "books": []
+    },
+    {
+      "firstName": "Алексей",
+      "lastName": "Смирнов",
+      "cardNumber": "1003",
+      "books": [
+        "1234567890"
+      ]
+    }
+  ]
+}
