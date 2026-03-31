@@ -1,0 +1,194 @@
+[
+  {
+    "Grand Prix": "Flag of AustraliaAustralia",
+    "Date": "16 Mar",
+    "Winner": "Lando NorrisNOR",
+    "Team": "McLaren",
+    "Laps": "57",
+    "Time": "1:42:06.304"
+  },
+  {
+    "Grand Prix": "Flag of People’s Republic of ChinaChina",
+    "Date": "23 Mar",
+    "Winner": "Oscar PiastriPIA",
+    "Team": "McLaren",
+    "Laps": "56",
+    "Time": "1:30:55.026"
+  },
+  {
+    "Grand Prix": "Flag of JapanJapan",
+    "Date": "06 Apr",
+    "Winner": "Max VerstappenVER",
+    "Team": "Red Bull Racing",
+    "Laps": "53",
+    "Time": "1:22:06.983"
+  },
+  {
+    "Grand Prix": "Flag of BahrainBahrain",
+    "Date": "13 Apr",
+    "Winner": "Oscar PiastriPIA",
+    "Team": "McLaren",
+    "Laps": "57",
+    "Time": "1:35:39.435"
+  },
+  {
+    "Grand Prix": "Flag of Saudi ArabiaSaudi Arabia",
+    "Date": "20 Apr",
+    "Winner": "Oscar PiastriPIA",
+    "Team": "McLaren",
+    "Laps": "50",
+    "Time": "1:21:06.758"
+  },
+  {
+    "Grand Prix": "Flag of United States of AmericaMiami",
+    "Date": "04 May",
+    "Winner": "Oscar PiastriPIA",
+    "Team": "McLaren",
+    "Laps": "57",
+    "Time": "1:28:51.587"
+  },
+  {
+    "Grand Prix": "Flag of ItalyEmilia-Romagna",
+    "Date": "18 May",
+    "Winner": "Max VerstappenVER",
+    "Team": "Red Bull Racing",
+    "Laps": "63",
+    "Time": "1:31:33.199"
+  },
+  {
+    "Grand Prix": "Flag of MonacoMonaco",
+    "Date": "25 May",
+    "Winner": "Lando NorrisNOR",
+    "Team": "McLaren",
+    "Laps": "78",
+    "Time": "1:40:33.843"
+  },
+  {
+    "Grand Prix": "Flag of SpainSpain",
+    "Date": "01 Jun",
+    "Winner": "Oscar PiastriPIA",
+    "Team": "McLaren",
+    "Laps": "66",
+    "Time": "1:32:57.375"
+  },
+  {
+    "Grand Prix": "Flag of CanadaCanada",
+    "Date": "15 Jun",
+    "Winner": "George RussellRUS",
+    "Team": "Mercedes",
+    "Laps": "70",
+    "Time": "1:31:52.688"
+  },
+  {
+    "Grand Prix": "Flag of AustriaAustria",
+    "Date": "29 Jun",
+    "Winner": "Lando NorrisNOR",
+    "Team": "McLaren",
+    "Laps": "70",
+    "Time": "1:23:47.693"
+  },
+  {
+    "Grand Prix": "Flag of Great BritainGreat Britain",
+    "Date": "06 Jul",
+    "Winner": "Lando NorrisNOR",
+    "Team": "McLaren",
+    "Laps": "52",
+    "Time": "1:37:15.735"
+  },
+  {
+    "Grand Prix": "Flag of BelgiumBelgium",
+    "Date": "27 Jul",
+    "Winner": "Oscar PiastriPIA",
+    "Team": "McLaren",
+    "Laps": "44",
+    "Time": "1:25:22.601"
+  },
+  {
+    "Grand Prix": "Flag of HungaryHungary",
+    "Date": "03 Aug",
+    "Winner": "Lando NorrisNOR",
+    "Team": "McLaren",
+    "Laps": "70",
+    "Time": "1:35:21.231"
+  },
+  {
+    "Grand Prix": "Flag of NetherlandsNetherlands",
+    "Date": "31 Aug",
+    "Winner": "Oscar PiastriPIA",
+    "Team": "McLaren",
+    "Laps": "72",
+    "Time": "1:38:29.849"
+  },
+  {
+    "Grand Prix": "Flag of ItalyItaly",
+    "Date": "07 Sep",
+    "Winner": "Max VerstappenVER",
+    "Team": "Red Bull Racing",
+    "Laps": "53",
+    "Time": "1:13:24.325"
+  },
+  {
+    "Grand Prix": "Flag of AzerbaijanAzerbaijan",
+    "Date": "21 Sep",
+    "Winner": "Max VerstappenVER",
+    "Team": "Red Bull Racing",
+    "Laps": "51",
+    "Time": "1:33:26.408"
+  },
+  {
+    "Grand Prix": "Flag of SingaporeSingapore",
+    "Date": "05 Oct",
+    "Winner": "George RussellRUS",
+    "Team": "Mercedes",
+    "Laps": "62",
+    "Time": "1:40:22.367"
+  },
+  {
+    "Grand Prix": "Flag of United States of AmericaUnited States",
+    "Date": "19 Oct",
+    "Winner": "Max VerstappenVER",
+    "Team": "Red Bull Racing",
+    "Laps": "56",
+    "Time": "1:34:00.161"
+  },
+  {
+    "Grand Prix": "Flag of MexicoMexico",
+    "Date": "26 Oct",
+    "Winner": "Lando NorrisNOR",
+    "Team": "McLaren",
+    "Laps": "71",
+    "Time": "1:37:58.574"
+  },
+  {
+    "Grand Prix": "Flag of BrazilBrazil",
+    "Date": "09 Nov",
+    "Winner": "Lando NorrisNOR",
+    "Team": "McLaren",
+    "Laps": "71",
+    "Time": "1:32:01.596"
+  },
+  {
+    "Grand Prix": "Flag of United States of AmericaLas Vegas",
+    "Date": "22 Nov",
+    "Winner": "Max VerstappenVER",
+    "Team": "Red Bull Racing",
+    "Laps": "50",
+    "Time": "1:21:08.429"
+  },
+  {
+    "Grand Prix": "Flag of QatarQatar",
+    "Date": "30 Nov",
+    "Winner": "Max VerstappenVER",
+    "Team": "Red Bull Racing",
+    "Laps": "57",
+    "Time": "1:24:38.241"
+  },
+  {
+    "Grand Prix": "Flag of United Arab EmiratesAbu Dhabi",
+    "Date": "07 Dec",
+    "Winner": "Max VerstappenVER",
+    "Team": "Red Bull Racing",
+    "Laps": "58",
+    "Time": "1:26:07.469"
+  }
+]
